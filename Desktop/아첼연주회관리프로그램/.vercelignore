@@ -1,0 +1,7 @@
+src/
+dist/
+node_modules/
+vite.config.ts
+tsconfig*.json
+eslint.config.js
+.git/
